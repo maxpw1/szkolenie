@@ -4,8 +4,7 @@ lekcja 3
 lekcja 4
 lekcja 5
 Kontrola
-dsfdsfd
-dsfds
-122efdsf
-dsfdsfds
+Kontrola 1
+Kontrola 2
+Kontrola 3
 
